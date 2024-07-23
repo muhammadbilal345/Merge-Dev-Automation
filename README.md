@@ -1,0 +1,3 @@
+- Developed script to automate login.
+- Developed Script to extract access token and to generate URL by the user provided fields.
+- Formatted the data and saved in the csv file.
